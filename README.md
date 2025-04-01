@@ -9,5 +9,5 @@ I'm BC Holmes. I'm a software developer interested in a variety of technologies,
 5. 3D technology.
 
 At the moment, a lot of my time is spent adding to and improving the [Star Trek Adventures character creator](https://github.com/bcholmes/StarTrek2d20), a 
-tool for creating characters (and other things) for the Star Trek Adventures roll-playing game.
+tool for creating characters (and other things) for the Star Trek Adventures role-playing game.
 
